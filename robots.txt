@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flagoschavez-lang.github.io/landing-ley21719/sitemap.xml
